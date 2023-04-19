@@ -22,4 +22,4 @@
 <br>
 Completamente apaixonada por tecnologia, astronomia e games!!
 <br>
-#Front-end  #Dev-gamer => em formação.
+#Front-end  #Dev-full stack => em formação.
