@@ -2,7 +2,6 @@
 
 [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whi)](https://www.linkedin.com/in/jamille-santos-31631a249/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamilleSM)
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jamillesm.github.io/)
 
 ![Jamille GitHub stats](https://github-readme-stats.vercel.app/api?username=JamilleSM&show_icons=true&theme=radical)
 
